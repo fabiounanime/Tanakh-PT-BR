@@ -1,0 +1,15 @@
+{
+  "date": "2026-09-30",
+  "books": 66,
+  "sourceVerses": 31152,
+  "portugueseVerses": 88,
+  "specialistReviewedVerses": 0,
+  "completePortuguese": false,
+  "completeChapters": [
+    "Gen.1",
+    "Ps.23",
+    "John.1"
+  ],
+  "pendingVerses": 31064,
+  "requirement": "Original literal PT-BR translation; no substitute existing translation; offline preloaded content; no runtime AI API."
+}
