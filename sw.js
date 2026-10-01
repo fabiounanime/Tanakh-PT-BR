@@ -1,6 +1,6 @@
 /* Replaced at packaging with a content-derived version and shell file list. */
-const VERSION='446e63b00dc996d4';
-const SHELL='tanakh-shell-'+VERSION, DATA="tanakh-data-8bbcd1e0723a7e84";
+const VERSION='e5fc879f54626d13';
+const SHELL='tanakh-shell-'+VERSION, DATA="tanakh-data-db45a8b7280dff46";
 const ASSETS=["/","/assets/index-BOYCQsf7.js","/assets/index-u5t_Luqj.css","/cache-version.json","/favicon.svg","/file.svg","/globe.svg","/icons/icon-180.png","/icons/icon-192.png","/icons/icon-512.png","/manifest.webmanifest","/offline-assets.json","/window.svg"];
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const cache=await caches.open(SHELL);await cache.addAll(ASSETS);await self.skipWaiting();
