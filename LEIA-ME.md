@@ -6,14 +6,14 @@
 
 - 66 livros de origem: 39 do AT (OSHB/WLC) e 27 do NT (SBLGNT).
 - Transliteração SBL pré-calculada dos 23.213 versículos do AT. É automática, não fonética portuguesa; trechos aramaicos e formas sem vogais exigem conferência.
-- 88 versículos em português: Gênesis 1, Salmo 23 e João 1 completos. Rascunhos por IA, sem revisão especializada.
+- 2.803 versículos em português: Gênesis 1–50, Êxodo 1–40, Salmo 23 e João 1 completos. Rascunhos por IA, sem revisão especializada.
 - Português como modo inicial, alternância para original e transliteração do AT.
 - Download do acervo, instalação PWA e leitura offline após o primeiro download.
 - Sem API, chave, servidor de tradução, conta ou cobranças de IA no uso do aplicativo.
 
 ## Retomar o trabalho
 
-A decisão mais recente é **tradução inédita literal**, não incorporar uma tradução existente como substituta. Faltam a tradução dos demais capítulos e a revisão filológica de todo o português. Não marcar como Bíblia inteira traduzida.
+A decisão mais recente é **tradução inédita literal**, não incorporar uma tradução existente como substituta. Gênesis e Êxodo já estão completos em rascunho literal PT-BR. Faltam os demais livros/capítulos e a revisão filológica de todo o português. Não marcar como Bíblia inteira traduzida.
 
 `public/data/translations.json` contém os rascunhos por referência (`Gen.1.1`). `scripts/expand-translations.py` reproduz o lote atual. `public/data/provenance.json` preserva hashes/commits de origem. `public/data/coverage.json` registra a cobertura real. Não completar lacunas com versículos lembrados de outra edição.
 
