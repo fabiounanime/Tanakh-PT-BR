@@ -1,0 +1,272 @@
+{
+  "book": {
+    "id": "Josh",
+    "name": "Josué",
+    "source": "OSHB / WLC",
+    "status": "draft",
+    "reviewed": false
+  },
+  "progress": {
+    "chapters_completed": 2,
+    "verses_translated": 42,
+    "total_chapters": 24,
+    "total_verses": 658
+  },
+  "chapters": {
+    "1": [
+      {
+        "n": 1,
+        "pt": "E aconteceu, depois da morte de Moisés, servo de YHWH, que YHWH disse a Josué, filho de Num, assistente de Moisés, dizendo:",
+        "notes": [
+          "מְשָׁרֵת (mesharêt): particípio de servir/ministrar; aqui vertido como 'assistente'."
+        ]
+      },
+      {
+        "n": 2,
+        "pt": "Moisés, meu servo, morreu. E agora, levanta-te, atravessa este Jordão, tu e todo este povo, para a terra que eu estou dando a eles, aos filhos de Israel.",
+        "notes": []
+      },
+      {
+        "n": 3,
+        "pt": "Todo lugar em que a planta do pé de vocês pisar, eu o dei a vocês, como falei a Moisés.",
+        "notes": []
+      },
+      {
+        "n": 4,
+        "pt": "Desde o deserto e este Líbano, e até o grande rio, o rio Eufrates, toda a terra dos hititas, e até o Grande Mar, na direção do pôr do sol, será o território de vocês.",
+        "notes": [
+          "מְבוֹא הַשֶּׁמֶשׁ: literalmente 'entrada do sol', expressão para o oeste/pôr do sol."
+        ]
+      },
+      {
+        "n": 5,
+        "pt": "Ninguém se manterá de pé diante de ti todos os dias da tua vida. Como fui com Moisés, serei contigo; não te deixarei e não te abandonarei.",
+        "notes": []
+      },
+      {
+        "n": 6,
+        "pt": "Sê forte e corajoso, pois tu farás este povo herdar a terra que jurei aos seus pais dar a eles.",
+        "notes": []
+      },
+      {
+        "n": 7,
+        "pt": "Somente sê forte e muito corajoso, para guardar e fazer conforme toda a Torá que Moisés, meu servo, te ordenou. Não te desvies dela para a direita nem para a esquerda, para que ajas com prudência em todo lugar por onde fores.",
+        "notes": [
+          "תַּשְׂכִּיל pode significar agir prudentemente/sabiamente e, por extensão, ter êxito."
+        ]
+      },
+      {
+        "n": 8,
+        "pt": "Este livro da Torá não se afastará da tua boca; meditarás nele dia e noite, para que guardes para fazer conforme tudo o que nele está escrito; pois então farás prosperar o teu caminho e então agirás com prudência.",
+        "notes": [
+          "הגה pode indicar meditar, murmurar ou recitar em voz baixa.",
+          "תַּשְׂכִּיל: agir prudentemente/sabiamente; também pode conotar êxito."
+        ]
+      },
+      {
+        "n": 9,
+        "pt": "Não te ordenei? Sê forte e corajoso. Não te apavores e não te atemorizes, pois YHWH, teu Deus, está contigo em todo lugar por onde fores.",
+        "notes": []
+      },
+      {
+        "n": 10,
+        "pt": "E Josué ordenou aos oficiais do povo, dizendo:",
+        "notes": [
+          "שֹׁטְרִים: oficiais/supervisores administrativos."
+        ]
+      },
+      {
+        "n": 11,
+        "pt": "Passai pelo meio do acampamento e ordenai ao povo, dizendo: Preparai para vocês provisões, pois dentro de três dias vocês atravessarão este Jordão, para entrar e possuir a terra que YHWH, Deus de vocês, está dando a vocês para possuí-la.",
+        "notes": []
+      },
+      {
+        "n": 12,
+        "pt": "E aos rubenitas, aos gaditas e à meia tribo de Manassés Josué disse, dizendo:",
+        "notes": []
+      },
+      {
+        "n": 13,
+        "pt": "Lembrai-vos da palavra que Moisés, servo de YHWH, ordenou a vocês, dizendo: YHWH, Deus de vocês, está dando descanso a vocês e deu a vocês esta terra.",
+        "notes": []
+      },
+      {
+        "n": 14,
+        "pt": "As mulheres de vocês, seus pequeninos e seus rebanhos permanecerão na terra que Moisés deu a vocês além do Jordão; mas vocês atravessarão armados diante de seus irmãos, todos os guerreiros valentes, e os ajudarão,",
+        "notes": [
+          "חֲמֻשִׁים: equipados/armados para batalha; a etimologia e nuance exata são discutidas."
+        ]
+      },
+      {
+        "n": 15,
+        "pt": "até que YHWH dê descanso aos irmãos de vocês como a vocês, e também eles possuam a terra que YHWH, Deus de vocês, está dando a eles. Então vocês voltarão à terra da herança de vocês e a possuirão, a qual Moisés, servo de YHWH, deu a vocês além do Jordão, para o lado do nascer do sol.",
+        "notes": [
+          "מִזְרַח הַשֶּׁמֶשׁ: literalmente 'nascente do sol', isto é, leste."
+        ]
+      },
+      {
+        "n": 16,
+        "pt": "E responderam a Josué, dizendo: Tudo o que nos ordenaste faremos, e a todo lugar para onde nos enviares iremos.",
+        "notes": []
+      },
+      {
+        "n": 17,
+        "pt": "Conforme em tudo ouvimos Moisés, assim ouviremos a ti; somente que YHWH, teu Deus, esteja contigo, como esteve com Moisés.",
+        "notes": []
+      },
+      {
+        "n": 18,
+        "pt": "Todo homem que se rebelar contra a tua ordem e não ouvir as tuas palavras em tudo o que lhe ordenares será morto. Somente sê forte e corajoso.",
+        "notes": []
+      }
+    ],
+    "2": [
+      {
+        "n": 1,
+        "pt": "E Josué, filho de Num, enviou de Sitim dois homens como espiões, secretamente, dizendo: Ide, vede a terra e Jericó. E foram e entraram na casa de uma mulher prostituta, cujo nome era Raabe, e deitaram-se ali.",
+        "notes": [
+          "חֶרֶשׁ funciona adverbialmente: secretamente/silenciosamente."
+        ]
+      },
+      {
+        "n": 2,
+        "pt": "E foi dito ao rei de Jericó, dizendo: Eis que homens dos filhos de Israel vieram aqui esta noite para investigar a terra.",
+        "notes": [
+          "חפר, neste contexto, tem sentido de investigar/explorar."
+        ]
+      },
+      {
+        "n": 3,
+        "pt": "Então o rei de Jericó mandou dizer a Raabe: Faze sair os homens que vieram a ti, que entraram em tua casa, pois vieram para investigar toda a terra.",
+        "notes": []
+      },
+      {
+        "n": 4,
+        "pt": "Mas a mulher tomou os dois homens e os escondeu. E disse: Sim, os homens vieram a mim, porém eu não sabia de onde eles eram.",
+        "notes": [
+          "O hebraico traz pronome singular em וַתִּצְפְּנוֹ apesar do antecedente plural; a tradução segue o referente plural."
+        ]
+      },
+      {
+        "n": 5,
+        "pt": "E aconteceu, quando o portão estava para fechar, ao escurecer, que os homens saíram. Não sei para onde os homens foram. Persegui-os depressa, pois vocês os alcançarão.",
+        "notes": []
+      },
+      {
+        "n": 6,
+        "pt": "Mas ela os havia feito subir ao terraço e os escondera entre as hastes de linho que tinha arrumado para si sobre o terraço.",
+        "notes": [
+          "פִּשְׁתֵּי הָעֵץ: literalmente hastes/caules de linho."
+        ]
+      },
+      {
+        "n": 7,
+        "pt": "E os homens os perseguiram pelo caminho do Jordão, até os vaus; e fecharam o portão depois que saíram os perseguidores atrás deles.",
+        "notes": []
+      },
+      {
+        "n": 8,
+        "pt": "E antes que eles se deitassem, ela subiu até eles no terraço.",
+        "notes": []
+      },
+      {
+        "n": 9,
+        "pt": "E disse aos homens: Sei que YHWH deu a vocês a terra, e que o terror de vocês caiu sobre nós, e que todos os habitantes da terra se derreteram diante de vocês.",
+        "notes": [
+          "נָמֹגוּ: literalmente derreteram-se/dissolveram-se, metáfora de perda de coragem."
+        ]
+      },
+      {
+        "n": 10,
+        "pt": "Pois ouvimos como YHWH secou diante de vocês as águas do Mar de Suf quando saíram do Egito, e o que vocês fizeram aos dois reis dos amorreus que estavam além do Jordão, a Siom e a Ogue, os quais vocês devotaram à destruição.",
+        "notes": [
+          "יַם־סוּף: literalmente 'Mar de Suf'; evita-se impor a identificação tradicional 'Mar Vermelho'.",
+          "הֶחֱרַמְתֶּם deriva de חרם: colocar sob ḥerem, devotar à destruição."
+        ]
+      },
+      {
+        "n": 11,
+        "pt": "E ouvimos, e nosso coração se derreteu, e não se levantou mais espírito em homem algum por causa de vocês; pois YHWH, Deus de vocês, ele é Deus nos céus acima e sobre a terra abaixo.",
+        "notes": []
+      },
+      {
+        "n": 12,
+        "pt": "E agora, jurai-me, por favor, por YHWH, pois agi com lealdade para com vocês, que também vocês agirão com lealdade para com a casa de meu pai; e dai-me um sinal seguro.",
+        "notes": [
+          "חֶסֶד: lealdade bondosa/fidelidade de aliança; 'lealdade' preserva aqui o caráter relacional.",
+          "אוֹת אֱמֶת: literalmente 'sinal de verdade/fidelidade'."
+        ]
+      },
+      {
+        "n": 13,
+        "pt": "E conservareis vivos meu pai, minha mãe, meus irmãos, minhas irmãs e tudo o que lhes pertence, e livrareis nossas vidas da morte.",
+        "notes": []
+      },
+      {
+        "n": 14,
+        "pt": "E os homens lhe disseram: Nossas vidas [serão] em lugar das de vocês, até a morte, se vocês não denunciarem este nosso assunto. E acontecerá que, quando YHWH nos der a terra, agiremos contigo com lealdade e fidelidade.",
+        "notes": [
+          "[serão] é suprido para tornar explícita a construção nominal hebraica נַפְשֵׁנוּ תַחְתֵּיכֶם."
+        ]
+      },
+      {
+        "n": 15,
+        "pt": "Então ela os fez descer por uma corda através da janela, pois a casa dela estava na parede da muralha, e na muralha ela habitava.",
+        "notes": []
+      },
+      {
+        "n": 16,
+        "pt": "E disse-lhes: Ide para a montanha, para que os perseguidores não encontrem vocês; escondam-se ali três dias, até que os perseguidores voltem; e depois sigam o caminho de vocês.",
+        "notes": []
+      },
+      {
+        "n": 17,
+        "pt": "E os homens lhe disseram: Estaremos livres deste teu juramento que nos fizeste jurar,",
+        "notes": []
+      },
+      {
+        "n": 18,
+        "pt": "eis que, quando entrarmos na terra, atarás este cordão de fio escarlate na janela pela qual nos fizeste descer; e teu pai, tua mãe, teus irmãos e toda a casa de teu pai reunirás contigo dentro da casa.",
+        "notes": [
+          "תִּקְוַת חוּט הַשָּׁנִי: cordão/linha de fio escarlate; תִּקְוָה normalmente também significa 'esperança', mas aqui designa cordão."
+        ]
+      },
+      {
+        "n": 19,
+        "pt": "E acontecerá que todo aquele que sair das portas da tua casa para fora, seu sangue [será] sobre sua cabeça, e nós estaremos livres; mas todo aquele que estiver contigo na casa, seu sangue [será] sobre nossa cabeça, se uma mão vier contra ele.",
+        "notes": [
+          "[será] é suprido nas duas cláusulas nominais 'seu sangue sobre...'."
+        ]
+      },
+      {
+        "n": 20,
+        "pt": "Mas, se denunciares este nosso assunto, estaremos livres do teu juramento que nos fizeste jurar.",
+        "notes": []
+      },
+      {
+        "n": 21,
+        "pt": "E ela disse: Conforme as palavras de vocês, assim [seja]. Então os despediu, e eles foram; e ela atou o cordão escarlate na janela.",
+        "notes": [
+          "[seja] é suprido para expressar a fórmula nominal כֵּן־הוּא."
+        ]
+      },
+      {
+        "n": 22,
+        "pt": "E foram e chegaram à montanha, e permaneceram ali três dias, até que os perseguidores voltaram. Os perseguidores procuraram por todo o caminho, mas não encontraram.",
+        "notes": []
+      },
+      {
+        "n": 23,
+        "pt": "Então os dois homens voltaram, desceram da montanha, atravessaram e chegaram a Josué, filho de Num; e contaram-lhe tudo o que lhes havia acontecido.",
+        "notes": []
+      },
+      {
+        "n": 24,
+        "pt": "E disseram a Josué: Certamente YHWH entregou em nossa mão toda a terra; e também todos os habitantes da terra se derreteram diante de nós.",
+        "notes": [
+          "נָמֹגוּ: 'derreteram-se', metáfora de medo/perda de coragem."
+        ]
+      }
+    ]
+  }
+}
